@@ -48,7 +48,7 @@ Activate it (run this each time you switch projects):
 
 First, install optional packages:
 
-    conda install numpy fiona shapely rtree rasterio pyproj tqdm pytest
+    conda install numpy fiona shapely rtree rasterio rasterstats pyproj tqdm pytest
 
 For development purposes, clone this repository and run:
 
